@@ -1,6 +1,6 @@
 # cutmix-cutout-mixup-CIFAR100
 
-## Train Examples
+## Train
 
 baseline:
 
@@ -28,7 +28,7 @@ python train.py --aug mixup
 
 
 
-## Test Examples using Pretrained model
+## Test using Pretrained model
 
 baseline: 
 
