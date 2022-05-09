@@ -1,6 +1,6 @@
 import argparse
 from model import resnet18
-from torch import optim
+from torch import optim,nn
 import torchvision
 from torch.backends import cudnn
 import torchvision.transforms as transforms
